@@ -1,0 +1,25 @@
+# Oracle temporary files
+*.log
+*.trc
+*.dmp
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Editor settings
+.vscode/
+.idea/
+
+# Operating system files
+Thumbs.db
+.DS_Store
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Temporary exports
+*.csv
