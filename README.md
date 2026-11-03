@@ -14,8 +14,8 @@
 
 | Full Name | Student ID |
 |---|---|
-| NSHIMYUMUKIZA Felicien | YOUR_STUDENT_ID |
-| Group Member 2 | PARTNER_STUDENT_ID |
+| NSHIMYUMUKIZA Felicien | 20251SEN197 |
+| Igirimbabazi Nairot| 27779 |
 
 ## 3. Project Description
 
